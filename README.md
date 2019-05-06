@@ -37,7 +37,7 @@ tnvm ls node
 tnvm use node-v5.5.0
 nvm use node-v8.0.0
 
-## zw-react-app
+## 3.上传到代码库
 Quick setup — if you’ve done this kind of thing before
 or	
 HTTPS
